@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fp_lat_17.4295349427362_lng_78.33249132516058_p_25_fov_85",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "image": "lat_17.4295349427362_lng_78.33249132516058_p_25_fov_85.jpg", "building_id": 548, "distance_m": 120.14021252030417 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 78.333369, 17.4300053 ], [ 78.3334347, 17.4301218 ], [ 78.3334805, 17.4300983 ], [ 78.333414799999986, 17.4299818 ], [ 78.333369, 17.4300053 ] ] ] } }
+]
+}
