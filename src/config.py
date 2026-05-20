@@ -6,15 +6,15 @@ LOCATIONS ={
     }
 
 
-OUTPUT_DIR = r"Data_lat_{}_lng_{}"
+OUTPUT_DIR = r"Data_outputs\Data_lat_{}_lng_{}"
 
 MODEL_PATH = r"D:\geokno_assignment\models\sam3.pt"
 
 MODEL_OP = 'Inference'
 
-WINDOWS_DET_OP = r'WD_lat_{}_lng_{}'
+WINDOWS_DET_OP = r'Data_outputs\WD_lat_{}_lng_{}'
 
-CLASSIFICATION_OP = r'CLS_lat_{}_lng_{}'
+CLASSIFICATION_OP = r'Data_outputs\CLS_lat_{}_lng_{}'
 
 
 CONF=0.5
