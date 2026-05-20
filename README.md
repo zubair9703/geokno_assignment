@@ -107,8 +107,8 @@ demo.ipynb
     - Cars
     - Utility poles
 
-3. Camera Geometry Variabilit
-Selecting an optimal pitch and FOV is difficult\
+3. Camera Geometry Variability
+Selecting an optimal pitch and FOV is difficult
 
 4. Building Footprint Misalignment
 
