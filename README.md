@@ -73,7 +73,7 @@ pip install -r requirements.txt
 ### 3. Running the Pipeline (For interactive UI)
 
 ```bash
-streamlit run src/app.py
+streamlit run app.py
 ```
 
 ### 4. For a Notebooks based demo use the following file
