@@ -44,22 +44,16 @@ Hyderabad, India
               └─────────┬───────────┘
                         │
                         ▼
-             ┌──────────────────────┐
-             │ Compute Camera       │
-             │ Heading & Alignment  │
-             └─────────┬────────────┘
-                       │
-                       ▼
-           ┌──────────────────────────┐
-           │ CV-Based Attribute       │
-           │ Extraction               │
-           └─────────┬────────────────┘
-                     │
-                     ▼
-           ┌──────────────────────────┐
-           │ Interactive Map          │
-           │ Visualization            │
-           └──────────────────────────┘
+            ┌──────────────────────────┐
+            │ CV-Based Attribute       │
+            │ Extraction               │
+            └─────────┬────────────────┘
+                      │
+                      ▼
+            ┌──────────────────────────┐
+            │ Interactive Map          │
+            │ Visualization            │
+            └──────────────────────────┘
 
 ## Setup Instructions
 
