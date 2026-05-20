@@ -23,6 +23,7 @@ dependencies = [
     "paddlepaddle>=3.3.1",
     "pandas>=3.0.3",
     "pillow",
+    "pyngrok>=8.1.2",
     "pytesseract>=0.3.13",
     "pytorch-lightning",
     "requests",
