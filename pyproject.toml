@@ -1,7 +1,7 @@
 [project]
 name = "geokno-assignment"
 version = "0.1.0"
-description = "Add your description here"
+description = "Street-Level Building Intelligence from Google Street View"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
